@@ -1,16 +1,43 @@
-## Hi there 👋
+### 👋 Hola, soy Christopher Obando
 
-<!--
-**ChristopherObando14/ChristopherObando14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 **Sobre mí**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 **Localización:** Medellín, Antioquia 🇨🇴  
+- 📧 **Email:** [cobandor@unal.edu.co](mailto:cobandor@unal.edu.co)  
+- 🎓 **Estudios:** Estadístico 📊  
+- 🏫 **Universidad:** [Universidad Nacional de Colombia](https://unal.edu.co) 🇨🇴  
+
+Estadístico especializado en **Analítica**, con dominio en **Análisis de Datos**, **Machine Learning** y desarrollo de **modelos predictivos**. Apasionado por resolver desafíos complejos mediante tecnología, combinando técnicas estadísticas, programación y ciencia de datos para generar soluciones estratégicas con alto impacto.
+
+---
+
+### 🖥️ **Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0077C2?style=for-the-badge&logo=sas&logoColor=white)
+
+---
+
+### 🛠️ **Herramientas y Frameworks**
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🤝 **Conectemos en LinkedIn**
+
+Estoy abierto a oportunidades profesionales, proyectos colaborativos o simplemente a intercambiar ideas.  
+📩 Puedes escribirme por correo o encontrarme en LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-obando-rivera)
+
+---
+
+### 📂 **Mis Proyectos**
+
+Revisa mis repositorios públicos a continuación ⬇️⬇️⬇️
